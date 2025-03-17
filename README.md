@@ -27,24 +27,7 @@ The easiest way to run the project is by **pulling the prebuilt Docker image** f
   ```bash
   docker --version
 ### **2️ Pull and Run the Prebuilt Image**
-Run the following commands:
-
-```bash
+- Run the following commands:
+ ```bash
 docker pull aksh5879/ensf400-gradle-app:latest
 docker run -p 8080:8080 aksh5879/ensf400-gradle-app:latest
-
-### ***Open in Web Browser***
-**With these commands, the image should open in web browser saying "Hello, this is a web server!".**
-
-## Team Members
-•⁠  ⁠Akshar: (GitHub & Workflow Management)
-
-•⁠  ⁠Shubham: (Containerization)
-
-•⁠  ⁠Jindjeet: (CI/CD & Jenkins)
-
-•⁠  ⁠Tahil: (Testing & Documentation)
-
-## Docker testing
-1)Docker was built successfully and took 82.5 seconds to build.
-2)Docker ran smoothly without any errors and with the help of port forwarding, an URL was created which opened in web browser.
