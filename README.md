@@ -23,3 +23,7 @@ This repository contains the ENSF 400 Winter 2025 course project, where we imple
 •⁠  ⁠Jindjeet: (CI/CD & Jenkins)
 
 •⁠  ⁠Tahil: (Testing & Documentation)
+
+## Docker testing
+1)Docker was built successfully and took 82.5 seconds to build.
+2)Docker ran smoothly without any errors and with the help of port forwarding, an URL was created which opened in web browser.
