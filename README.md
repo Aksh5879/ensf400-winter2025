@@ -14,3 +14,12 @@ This repository contains the ENSF 400 Winter 2025 course project, where we imple
    ```sh
    git clone https://github.com/Aksh5879/ensf400-winter2025.git
    cd ensf400-winter2025
+
+## Team Members
+•⁠  ⁠Akshar: (GitHub & Workflow Management)
+
+•⁠  ⁠Shubham: (Containerization)
+
+•⁠  ⁠Jindjeet: (CI/CD & Jenkins)
+
+•⁠  ⁠Tahil: (Testing & Documentation)
