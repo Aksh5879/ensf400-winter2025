@@ -28,7 +28,7 @@ The easiest way to run the project is by **pulling the prebuilt Docker image** f
   docker --version
 ### **2️ Pull and Run the Prebuilt Image**
 - Run the following commands:
- ```bash
+  ```bash 
 docker pull aksh5879/ensf400-gradle-app:latest
 docker run -p 8080:8080 aksh5879/ensf400-gradle-app:latest
 
