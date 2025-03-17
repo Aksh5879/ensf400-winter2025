@@ -26,11 +26,14 @@ The easiest way to run the project is by **pulling the prebuilt Docker image** f
 - Verify installation:
   ```bash
   docker --version
-**2.** **Pull and Run the prebuilt Image** 
+### **2️ Pull and Run the Prebuilt Image**
+Run the following commands:
+
 ```bash
 docker pull aksh5879/ensf400-gradle-app:latest
 docker run -p 8080:8080 aksh5879/ensf400-gradle-app:latest
-### **3️ Open in Browser**
+
+### ***Open in Web Browser***
 **With these commands, the image should open in web browser saying "Hello, this is a web server!".**
 
 ## Team Members
